@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>
+            HTML Basics:Tags and list
+        </title>
+    </head>
+<body>
+    <hr>
+    <h1 style="text-align: center; color: blueviolet;">
+    HTML Basics: Tags and Lists
+    <hr><p style="text-align: left; font-size: medium; font-family: 'Times New Roman', Times, serif; color: black;">
+    Learn about basic HTML tags and how to create lists on your webpage.
+    </p></h1><hr>
+    <div style="text-align: center;">
+    <div style="background-color: rgb(108, 108, 192); color: beige;width: 400  ;height: 100;font-family: sans-serif;display: inline-block;">
+    HTML Tags 
+    <p >
+     <ul><li>HTML Texts are the building blocks of a webpage</li> 
+    <li>Heading Tags are denoted by h1 and /h1</li></ul>
+    </p>
+    </div>
+    <div style="background-color: rgb(108, 108, 192); color: beige;width: 400  ;height: 100;font-family: sans-serif;display: inline-block;">
+    Paragraph Tags
+    <p>
+    <ul><li>Use the p tag to add paragraphs to your content</li>
+    <li>Use the pre tag to preserve formatting.</li></ul>
+    </p> 
+    </div>
+    <div style="background-color: rgb(108, 108, 192); color: beige;width: 400  ;height: 100;font-family: sans-serif;display: inline-block;">
+    Lists in HTML 
+    <p>
+        <ul><li>Use the ul tag to create unordered lists</li>
+        <li>Use the ol tag to create ordered lists</li></ul>
+    </p>    
+    </div>
+    </div>
+    <hr>    
+    <h2 style="text-align: left; color: black; font-family: 'Times New Roman', Times, serif;">
+        TYPES OF LISTS
+       <hr>
+        <div style="background-color: rgb(108, 108, 192); display: inline-block;width: 500; color: beige; font-family: sans-serif; font-size: medium; text-align: center;"> 
+            Ordered List
+        <ul style="text-align: left; list-style: inside;">
+            <li>An ordered list uses numbers:</li>
+            <ol>
+            <li>First Item</li>
+            <li>Second Item</li>
+            <li>Third Item</li>
+            </ol></ul>
+       </div>
+       <div style="background-color: rgb(108, 108, 192); display: inline-block;width: 500; color: beige; font-family: sans-serif; font-size: medium; text-align: center;"> 
+            Unordered List
+        <ul style="text-align: left; list-style: inside; ">
+            <li>An unordered list uses bullet points:</li>
+            <ul>
+            <li>First Item</li>
+            <li>Second Item</li>
+            <li>Third Item</li>
+            </ul></ul>
+        </div>
+    <hr>
+       <a href="http://127.0.0.1:5500/HTML%20LISTS.html" target="_blank"><button style="background-color: rgb(108, 108, 192); font-size: larger; text-align: center;">Next: Learn about Lists ---&gt</button></a>
+    </body>
+       </html>
